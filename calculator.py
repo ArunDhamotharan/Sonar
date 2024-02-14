@@ -1,5 +1,5 @@
 def add(a, b):
-  """Adds two numbers together.
+  
 
   Args:
     a: The first number.
@@ -7,19 +7,18 @@ def add(a, b):
 
   Returns:
     The sum of a and b.
-  """
+
   return a + b
 
 def subtract(a, b):
-  """Subtracts two numbers.
-
+  
   Args:
     a: The first number.
     b: The second number.
 
   Returns:
     The difference of a and b.
-  """
+ 
   return a - b
 
 
